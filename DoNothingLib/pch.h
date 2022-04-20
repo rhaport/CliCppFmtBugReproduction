@@ -10,11 +10,4 @@
 // add headers that you want to pre-compile here
 #include "framework.h"
 
-#include <afxwin.h>
-
-#include <tchar.h>
-#include <windows.h>
-
-#include <DoNothingLib.h>
-
 #endif //PCH_H

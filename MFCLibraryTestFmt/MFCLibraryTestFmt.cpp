@@ -61,8 +61,7 @@ BOOL CMFCLibraryTestFmtApp::InitInstance()
   CWinApp::InitInstance();
 
   //LogInfo(L"{}", __FUNCTIONW__);
-  auto s = fmt::format(L"bla {}", 42);
-  (void)s;
+  NS::fnDoNothingLib();
 
   return TRUE;
 }

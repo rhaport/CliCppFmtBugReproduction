@@ -10,8 +10,6 @@
 // add headers that you want to pre-compile here
 #include "framework.h"
 
-#include <fmt/core.h>
-#include <fmt/format.h>
-#include <fmt/xchar.h>
+#include <DoNothingLib.h>
 
 #endif //PCH_H
